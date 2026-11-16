@@ -11,6 +11,7 @@ brotlicffi @ file:///home/task_179300677496279/croot/brotlicffi_1793006803418/wo
 certifi @ file:///home/task_179300541075950/croot/certifi_1793006633205/work/certifi
 cffi @ file:///home/task_178669697485257/croot/cffi_1786697019433/work
 charset-normalizer @ file:///home/task_179370393739273/croot/charset-normalizer_1793703965190/work
+cloudpickle @ file:///home/task_179217338802519/croot/cloudpickle_1792173435346/work
 comm @ file:///work/buildout/croot/comm_1763633897457/work
 contourpy @ file:///home/task_179326258044752/croot/contourpy_1793262712588/work
 cycler @ file:///home/task_176606792831380/croot/cycler_1766067950713/work
@@ -32,6 +33,7 @@ ipython_pygments_lexers @ file:///work/buildout/croot/ipython_pygments_lexers_17
 ipywidgets @ file:///home/task_178879116957219/croot/ipywidgets_1788791197187/work
 jedi @ file:///home/task_179318700969599/croot/jedi_1793187037717/work
 Jinja2 @ file:///home/task_178782617984657/croot/jinja2_1787826208678/work
+joblib @ file:///home/task_179076687077100/croot/joblib_1790766907475/work
 json5 @ file:///home/task_179248979184979/croot/json5_1792491249675/work
 jsonschema @ file:///home/task_178731897884237/croot/jsonschema_1787319008537/work
 jsonschema-specifications @ file:///home/task_176278841548666/conda-bld/jsonschema-specifications_1762788428605/work
@@ -60,6 +62,7 @@ narwhals @ file:///home/task_falhOfGdQ_6PS_0/croot/narwhals_1783944049475/work
 nbclient @ file:///home/task_178248457200149/croot/nbclient_1782484612139/work
 nbconvert @ file:///home/task_179327212993036/croot/nbconvert-meta_1793272184019/work
 nbformat @ file:///home/task_179249459740113/croot/nbformat_1792494622263/work
+nbstripout==0.9.1
 nest-asyncio2 @ file:///home/task_P915STHVRGGWX_0/croot/nest-asyncio2_1785322375980/work
 notebook @ file:///home/task_179083870303011/croot/notebook_1790838750057/work
 notebook_shim @ file:///home/task_176962905103403/croot/notebook-shim_1769629835871/work
@@ -94,7 +97,9 @@ requests @ file:///home/task_179138594737378/croot/requests_1791386604135/work
 rfc3339_validator @ file:///home/task_176477496779799/conda-bld/rfc3339-validator_1764775595852/work
 rfc3986_validator @ file:///work/buildout/croot/rfc3986-validator_1763633137891/work
 rpds-py @ file:///home/task_179217346457687/croot/rpds-py_1792173511601/work
+scikit-learn @ file:///home/task_179206384574931/croot/scikit-learn_1792063879718/work
 scipy @ file:///home/task_179336869853146/croot/scipy_1793368755078/work/dist/scipy-1.18.1-cp314-cp314-linux_x86_64.whl#sha256=c1b2b4d08c255c3a1276dad809fce3a325b144da951ae464e3da57904a579595
+seaborn @ file:///home/task_179205911235222/croot/seaborn_1792059252811/work
 Send2Trash @ file:///home/task_179249369908368/croot/send2trash_1792493727306/work
 setuptools==84.2.1
 sip @ file:///home/task_177080689688581/croot/sip_1770807531403/work
@@ -103,6 +108,7 @@ soupsieve @ file:///home/task_178998641148148/croot/soupsieve_1789986445471/work
 stack_data @ file:///home/task_179336631124475/croot/stack_data_1793366342015/work
 statsmodels @ file:///home/task_178886327606209/croot/statsmodels_1788863302319/work
 terminado @ file:///home/task_176959122919142/croot/terminado_1769591695507/work
+threadpoolctl @ file:///home/task_179301281175258/croot/threadpoolctl_1793012865525/work
 tinycss2 @ file:///home/task_176494827586296/conda-bld/tinycss2_1764948940201/work
 tornado @ file:///home/task_179338828827153/croot/tornado_1793388320495/work
 traitlets @ file:///home/task_179301280469485/croot/traitlets_1793012830443/work
